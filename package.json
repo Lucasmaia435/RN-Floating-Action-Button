@@ -1,9 +1,14 @@
 {
   "name": "@lucasmrc435/rn-fab",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Floating Action Button(FAB) for React Native",
   "main": "index.tsx",
   "author": "Lucas Maia (https://github.com/Lucasmaia435)",
+  "homepage": "https://github.com/Lucasmaia435/RN-Floating-Action-Button",
+  "repository": {
+    "url": "https://github.com/Lucasmaia435/RN-Floating-Action-Button",
+    "type": "git"
+  },
   "license": "MIT",
   "peerDependencies": {
     "@types/react-native-vector-icons": "*",
@@ -16,5 +21,23 @@
     "@types/react-native": "~0.61.17",
     "babel-preset-expo": "~8.1.0",
     "typescript": "~3.8.3"
-  }
+  },
+  "keywords": [
+    "react",
+    "native",
+    "fab",
+    "floating",
+    "action",
+    "button",
+    "floating-action",
+    "float-button",
+    "action-button",
+    "multi-action-button",
+    "floating-action-button",
+    "float-action-button",
+    "react-native",
+    "react-native-floating-button",
+    "react-native-floating-action-button",
+    "react-native-fab"
+  ]
 }
