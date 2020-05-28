@@ -97,17 +97,17 @@ The FAB's position. Position can only be ```left``` | ```center``` | ```right```
 type : ```String```
 
 
-## icon
+## ```icon```
 The Icon that will appear inside the FAB. Any Icon from [MaterialCommunityIcons](https://materialdesignicons.com/)
 
 type : ```String```
 
-## iconColor 
+## ```iconColor```
 The color that will fill the FAB's Icon
 
 type : ```String```
 
-## onPress
+## ```onPress```
 The function that is called when the button is activated.
 
 type : ```Void Function```
